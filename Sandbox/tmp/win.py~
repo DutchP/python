@@ -1,0 +1,14 @@
+#! /usr/bin/python
+
+from Tkinter import *
+
+root = Tk()
+#creating a frame to put on the windowpane
+frame = Frame(root)
+fame.pack()
+# packing a canvas with black background to the frame
+canvas  = Canvas(frame,bg ='black')
+#adding it to the Top of the window
+canvas.pack(side=TOP)
+#starting the window
+root.mainloop()

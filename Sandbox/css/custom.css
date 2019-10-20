@@ -1,0 +1,60 @@
+h1,h2,h3,h4{
+    text-align:center;
+}
+body{
+    background-color:#333;
+    color:white;
+}
+.homeMenu .ui-btn{ min-width:120px;min-height:30px;margin:.5em;}
+.glyphishIcon .ui-icon .flike{
+    -moz-border-radius: 0px;
+    margin:.5em;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+    background-color:transparent;
+}
+.ui-page{
+background-image:url(/images/background.jpg);
+background-repeat:no-repeat;
+background-size: 100%;
+background-color:#e6ffcc;
+}
+#pageinfo{
+    border-radius:5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius: 5px;
+    background-color:#f2ffe6;
+    padding:8px 8px;
+    color:black;
+    opacity:0.8;;
+}
+#page2info{
+    border-radius:5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius: 5px;
+    background-color:#f2ffe6;
+    padding:8px 8px;
+    color:black;
+    opacity:0.8;
+}
+
+#page2info h1,h2,h3{
+    text-align:left;
+}
+.flike {
+    margin:5em;
+    background-image: url("/images/facebook_like_gray.png");
+    background-repeat:no-repeat;
+    background-size: 24px 24px;
+    /*background-attachment: fixed;*/
+    background-position:50% 15%;
+}
+.products{
+    margin:5em;
+    background-image: url("/images/products.png");
+    background-repeat:no-repeat;
+    background-size: 24px 24px;
+    /*background-attachment: fixed;*/
+    background-position:50% 15%;
+
+}

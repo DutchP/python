@@ -1,0 +1,3 @@
+This is an example file created solely for the purpose of test
+I wannna try to read this file as it is and display it in Python
+In python2 we import from __future__ print_function to display this
